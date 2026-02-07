@@ -91,13 +91,13 @@ Together, these layers form an end-to-end governance model.
 
 ```text
 AUMI-Human-centered-AI-Framework/
-├── README.md                          ← Public overview
-├── 00_Executive_Overview/             ← v0.9 Vision
+├── README.md                          
+├── 00_Executive_Overview/             
 ├── 01_AUMI_v1_Behavioral_Responsibility/
 ├── 02_AUMI_v2_Technical_Architecture/
 ├── 03_AUMI_v3_Human_Companion_Layer/
 ├── 04_AUMI_v4_EvalOps_and_Governance/
 ├── 05_AUMI_v5_Business_Product_Collaboration/
-├── 06_Real_World_Application/         ← ZomoBot case study
+├── 06_Real_World_Application/         
 ├── LICENSE
 └── CONTRIBUTING.md
